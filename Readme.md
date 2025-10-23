@@ -4,7 +4,7 @@
 
 ---
 
-## 👋 Assalamualaikum Warahmatullahi Wabarakatuh
+## 👋 Assalamualaikum Warahmatullahi Wabarakatuh ..
 
 Selamat datang di repository **After Class Fest**! Proyek ini merupakan website platform pembelian tiket konser dan acara musik yang dirancang dengan tampilan modern, minimalis, dan responsive.
 
