@@ -1,7 +1,6 @@
 # 🎵 After Class Fest - Event Ticketing Website
 
 ![Desktop View](screenshots/desktop-view.png)
-![Mobile View](screenshots/mobile-view.png)
 
 ---
 
