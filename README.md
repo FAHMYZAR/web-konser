@@ -14,10 +14,10 @@ Selamat datang di repository **After Class Fest**! Proyek ini merupakan website 
 
 | No | Nama | NIM | Role |
 |----|------|-----|------|
-| 1 | **Fahmi** | 243200330 | Project Lead & Frontend Developer |
-| 2 | **Naura** | 243200332 | UI/UX Designer & Frontend Developer |
-| 3 | **Bunga** | 243200333 | Content Manager & Frontend Developer |
-| 4 | **Riski Eka** | 243200334 | QA Tester & Frontend Developer |
+| 1 | **Fahmi** | 243200330 | Project Lead |
+| 2 | **Naura** | 243200332 | UI/UX Designer & Pages About |
+| 3 | **Bunga** | 243200333 | Pages Buy |
+| 4 | **Riski Eka** | 243200334 | Pages buy section two |
 
 ---
 
